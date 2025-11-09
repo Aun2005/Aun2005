@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there I'm Syed Aun Shamsi
 
-<!--
-**Aun2005/Aun2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate beginner developer currently exploring the exciting world of Artificial Intelligence and Software Development. I love learning new technologies and building projects that challenge my problem-solving skills.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+🌱 I’m currently learning Python and Java
+
+🤖 I’m exploring AI, machine learning, and data science concepts
+
+💡 Interested in building intelligent systems and real-world automation
+
+🎓 Studying Computer Science at [UBIT University Of Karachi]
+
+💬 Ask me about: Python basics, Java fundamentals, or beginner AI projects
+
+⚡ Fun fact: I learn best by creating small projects and experimenting!ere are some ideas to get you started:
+
